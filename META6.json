@@ -1,0 +1,17 @@
+{
+  "auth": "zef:arunvickram",
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "A brand new and very nice module",
+  "name": "App--Raku--LanguageServer",
+  "provides": {
+    "App::Raku::LanguageServer": "lib/App/Raku/LanguageServer.rakumod"
+  },
+  "resources": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
